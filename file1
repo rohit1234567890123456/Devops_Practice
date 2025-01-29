@@ -3,5 +3,10 @@ This is my first git proj.
 Thanks
 Today is sunday and it's 26th Jan.
 We are celebrating this as a republic day.
+<<<<<<< HEAD
 Created a feature branch.
 Jai Hind.
+=======
+Created a feature branch
+Today is 30th Jan. Open after 4 days for practice.
+>>>>>>> f4af3eb (added 1 line)
